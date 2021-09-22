@@ -1,8 +1,5 @@
-# Metadata car keys using linden_inventory/ox_inventory (react update)
-# Metadata klíče s pomocí lincen_inventory/ox_inventory (react update)
-
-# Big thanks to Bazsi#7565 for helping me with metadata
-# Děkuji Bazsi#7565 za pomoc s metadatou
+# Metadata car keys using linden_inventory
+ *Big thanks to Bazsi#7565 for helping me with metadata*
 
 •» shared/items.lua
 ```lua
